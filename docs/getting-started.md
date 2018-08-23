@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- lorem ipsum
+- bacom jipsum 
+- looney tuney
