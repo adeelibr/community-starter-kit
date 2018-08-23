@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- lorem ipsum
+- ipsum bacom hipsum
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- lorem ipsum
+- ipsum bacom hipsum
 
 ## Getting started
 
